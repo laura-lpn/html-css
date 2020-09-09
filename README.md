@@ -11,3 +11,26 @@ On tape dans google _"html élément titre"_
 On trouve ce lien : https://developer.mozilla.org/fr/docs/Web/HTML/Element/Heading_Elements  
 
     La pratique régulière contribue ensuite à la maîtrise.
+    
+# 3. Outils, ressources
+## Editeur de code en ligne.
+Codepen : https://codepen.io/ _(ouvrir un compte gratuit)_.  
+Très pratique pour prototyper et partager ses expérimentations.  
+Codepen est très populaire au sein de la communauté des developpeurs.
+## Editeurs de code à installer
+On parle d' I.D.E. (integrated development environment). C'est un logiciel d'édition de code qui intègre des fonctions d'aide à la programmation.
+* Brackets : http://brackets.io/
+* Visual Studio Code : https://code.visualstudio.com/  
+Ces IDE sont plus adaptés au développement de projets de sites web.
+## Emmet 
+Installer__Emmet__ dans un IDE permet de coder plus vite et sans erreur. _(Voir l'installation selon l'éditeur)_.
+La doc Emmet : https://docs.emmet.io/  
+Il est présent dans Codepen et facile à installer. C'est un allié indéniable.  
+
+## Mozilla
+Un site de référence à la fois glossaire et tutoriel.  
+* Mozilla :  https://developer.mozilla.org/fr/docs/Web/HTML
+* Sinon ... Recherche Google
+
+## Youtube
+Des tutos pour tout !  _Mais attention à filtrer pas date._
