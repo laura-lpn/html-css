@@ -1,5 +1,5 @@
 # 1. Objectifs niveau 1
-Apprendre les bases fondamentales de l'intégration HTML/CSS
+Apprendre les bases fondamentales de l'intégration HTML/CSS.  
 Apprendre à concevoir et coder une page web dans le respect des techniques actuelles et adaptées aux écrans d'ordinateurs uniquement.    
 Expérimenter régulièrement chez soi pour progresser.
 
