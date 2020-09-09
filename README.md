@@ -16,7 +16,8 @@ On trouve ce lien : https://developer.mozilla.org/fr/docs/Web/HTML/Element/Headi
 ## Editeur de code en ligne.
 Codepen : https://codepen.io/ _(ouvrir un compte gratuit)_.  
 Très pratique pour prototyper et partager ses expérimentations.  
-Codepen est très populaire au sein de la communauté des developpeurs.
+Codepen est très populaire au sein de la communauté des developpeurs.  
+Nous pouvons l'utiliser et regrouper par collection les tests relatifs au chapitres du cours.
 ## Editeurs de code à installer
 On parle d' I.D.E. (integrated development environment). C'est un logiciel d'édition de code qui intègre des fonctions d'aide à la programmation.
 * Brackets : http://brackets.io/
