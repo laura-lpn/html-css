@@ -36,7 +36,7 @@ Un site de référence à la fois glossaire et tutoriel.
 Des tutos pour tout !  _Mais attention à filtrer pas date._
 
 # 4. Découpage en chapitres
-Les noms des chapitres sont relatifs aux techniques requises et contiennent le mots clé à retenir.  
+Les noms des chapitres de ce cours sont relatifs aux techniques principales requises et contiennent le mots clé à retenir.  
 [Introduction](https://github.com/seasgit/html-css/wiki/A-Introduction)  
 [Box Model](https://github.com/seasgit/html-css/wiki/B-box-model) Modèles de boîtes  
 [Selecteurs](https://github.com/seasgit/html-css/wiki/C-selecteurs) Comment sélectionner un élement HTML et lui appliquer un style.  
