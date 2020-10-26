@@ -38,11 +38,11 @@ Des tutos pour tout !  _Mais attention à filtrer pas date._
 
 # 4. Découpage en chapitres
 Les noms des chapitres de ce cours sont relatifs aux techniques principales requises et contiennent le mots clé à retenir.  
-[Introduction](https://github.com/seasgit/html-css/wiki/A-Introduction)  
-[Box Model](https://github.com/seasgit/html-css/wiki/B-box-model) Modèles de boîtes  
-[Selecteurs](https://github.com/seasgit/html-css/wiki/C-selecteurs) Comment sélectionner un élement HTML et lui appliquer un style.  
-[Unites](https://github.com/seasgit/html-css/wiki/D-unites)   
+[Introduction](https://github.com/seasgit/html-css/wiki/A-Introduction)   
+[Unites](https://github.com/seasgit/html-css/wiki/B-unites)   
+[Box Model](https://github.com/seasgit/html-css/wiki/C-box-model) Modèles de boîtes  
+[Selecteurs](https://github.com/seasgit/html-css/wiki/D-selecteurs) Comment sélectionner un élement HTML et lui appliquer un style.  
 [Images](https://github.com/seasgit/html-css/wiki/E-image)  
-[Position](https://github.com/seasgit/html-css/wiki/F-positions) Placements et superpositions  
-[Display](https://github.com/seasgit/html-css/wiki/G-display) Alignement et gabarits de page
+[Position](https://github.com/seasgit/html-css/wiki/G-positions) Placements et superpositions  
+[Display](https://github.com/seasgit/html-css/wiki/F-display) Alignement et gabarits de page
 
